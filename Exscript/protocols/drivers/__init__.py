@@ -48,6 +48,7 @@ from Exscript.protocols.drivers.fortios import FortiOSDriver
 from Exscript.protocols.drivers.bigip import BigIPDriver
 from Exscript.protocols.drivers.isam import IsamDriver
 from Exscript.protocols.drivers.zte import ZteDriver
+from Exscript.protocols.drivers.zte_olt import ZteOltDriver
 from Exscript.protocols.drivers.vxworks import VxworksDriver
 from Exscript.protocols.drivers.ericsson_ban import EricssonBanDriver
 from Exscript.protocols.drivers.rios import RIOSDriver
